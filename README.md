@@ -25,7 +25,8 @@ The simulation is set to run 5 “iterations”, with the fiber length varying f
 <img width="1046" height="1600" alt="image" src="https://github.com/user-attachments/assets/b545cdab-a110-4ee9-9504-3d71e482ee4a" />
 
 
-# RESULT: Thus the simulation of optical commucation system using GAUSSIAN PULSE PROPAGATION verified successfully.
+# RESULT: 
+Thus the simulation of optical commucation system using GAUSSIAN PULSE PROPAGATION verified successfully.
 
 
 
