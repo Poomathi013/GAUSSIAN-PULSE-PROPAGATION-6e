@@ -20,6 +20,7 @@ The simulation is set to run 5 “iterations”, with the fiber length varying f
 # TABULATION:
 <img width="1020" height="1599" alt="image" src="https://github.com/user-attachments/assets/c0c05eb4-80b2-47fd-ad00-02bb5fbf329a" />
 
+
 # GRAPH:
 <img width="1107" height="1600" alt="image" src="https://github.com/user-attachments/assets/4c1955a7-eb73-4f5c-902e-c81fc8c2e24e" />
 <img width="1046" height="1600" alt="image" src="https://github.com/user-attachments/assets/b545cdab-a110-4ee9-9504-3d71e482ee4a" />
